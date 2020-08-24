@@ -1,0 +1,12 @@
+# traj options file
+# automatically generated on: Wed May  2 11:07:15 2018
+opt clustercontmaxdist 10
+opt clusteriterate 1
+opt clusterlsqfit 1
+opt clustermaxlevel 999
+opt clustermaxnum 4
+opt clustermethod kclust
+opt clustermixfactor 0.3
+opt clustermode rmsd
+opt clusterradius 2
+opt clusterselmode ca
