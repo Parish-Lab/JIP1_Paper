@@ -9,14 +9,14 @@ Recent experiments indicate that the C-Jun Amino-Terminal Kinase-Interacting Pro
 #### Clustering
 Contains all structures and raw data related to clustering analysis
 
-[Average structures of all 7 conformers](JIP1_Paper/Clustering/Avg_Conformer_Struct/)
+[Average structures of all 7 conformers](Clustering/Avg_Conformer_Struct/)
 
-[Raw data from MMTSB clustering](JIP1_Paper/Clustering/MMTSB/)
+[Raw data from MMTSB clustering](Clustering/MMTSB/)
 - PDBfit folder - all identified structures
 - clustering.out - list of generated clusters
 - clustering10.out - list of structures for 10 most populated clusters
 
-[Raw data from cpptraj clustering](JIP1_Paper/Clustering/cpptraj/)
+[Raw data from cpptraj clustering](Clustering/cpptraj/)
 - Other_Clusters folder - Low populated clusters not associated with any identified Conformer
 - JIP1_Uncapped_All_20000ns_summary_Pairdist_all_S5_C115_E_NA.out - clustering summary file
 - JIP1_Uncapped_All_Pairdist_all_S5_C115_E_NA_Clust.c*.pdb - strucutres associated with 7 Conformers
@@ -24,7 +24,7 @@ Contains all structures and raw data related to clustering analysis
 - JIP1_Uncapped_Pairdist_all_20000ns_CA.dat - paired distances raw data file
 - cpptraj_clustering_Pairdist_C115_S5.sh - pairwise cpptraj clustering script
 
-[cpptraj clustering bootstrapping Juypter Notebook](JIP1_Paper/Clustering/cpptraj_bootstrapping/)
+[cpptraj clustering bootstrapping Juypter Notebook](Clustering/cpptraj_bootstrapping/)
 - PDBfit folder - all identified structures
 - clustering.out - list of generated clusters
 - clustering10.out - list of structures for 10 most populated clusters
@@ -32,35 +32,35 @@ Contains all structures and raw data related to clustering analysis
 #### MD Data
 All MD input files, scripts, parameter topology, input coordinates, trajectories, and analysis - including lifetime, H-bond, and RMSD analysis 
 
-[Full ensemble H-bond summary file and script](JIP1_Paper/MD_Data/Hbond)
+[Full ensemble H-bond summary file and script](MD_Data/Hbond)
 - JIP1_all_Hbonds.dat - H-bond analysis summary
 - cpptraj_hbond.sh - cpptraj H-bond analysis script
 
-[Lifetime calculation and bootstrapping raw data](JIP1_Paper/MD_Data/Lifetime)
+[Lifetime calculation and bootstrapping raw data](Lifetime)
 - JIP1_Lifetime_Bootstrapping_2A_corrected.xlsx - raw bootsampled lifetimes
 - lifetime_analysis_CLS_edit_corrected_2.0_conf7_added.xlsb - lifetimes calculated from ensemble
 
-[Amber minimization, heating, equilibration, and unrestrained MD input files](JIP1_Paper/MD_Data/MD_input)
+[Amber minimization, heating, equilibration, and unrestrained MD input files](MD_Data/MD_input)
 
-[Amber tleap preparation, minimization, heating, equilibration, and unrestrained MD scripts](JIP1_Paper/MD_Data/MD_scripts)
+[Amber tleap preparation, minimization, heating, equilibration, and unrestrained MD scripts](MD_Data/MD_scripts)
 
-[cpptraj RMSD analysis scripts, and RMSD data files the input coordinates and each Conformer average structure as the reference](JIP1_Paper/MD_Data/RMSD)
+[cpptraj RMSD analysis scripts, and RMSD data files the input coordinates and each Conformer average structure as the reference](MD_Data/RMSD)
 - RMSD aCarbon Percent Occurrence JIP1 Conformers All Seeds.xlsx - % occurrences of Conformers in each seed, alpha carbon RMSD cutoff of 2 angstroms
 - RMSD_Conf*_to_Full_JIP1_Trajectory.dat - alpha carbon RMSD of all Conformers to the full ensemble
 - RMSD_JIP1_Uncapped_all_new_20000ns.dat - all atom RMSD of full ensemble from input coordinates
 - cpptraj_analysis_2000ns.sh - cpptraj script for all atom RMSD from input coordinates analysis of the full ensemble
 - cpptraj_reference_RMSD_2000ns.sh - cpptraj script for alpha carbon RMSD of all Conformers to the full ensemble analysis
 
-[Unsolvated MD trajectories for all JIP1 unrestrained MD seeds](JIP1_Paper/MD_Data/Trajectories)
+[Unsolvated MD trajectories for all JIP1 unrestrained MD seeds](MD_Data/Trajectories)
 
-[Initial PDB, and solvated/unsolvated parameter topology and input coordinate files](JIP1_Paper/MD_Data/prmtop_inpcrd)
+[Initial PDB, and solvated/unsolvated parameter topology and input coordinate files](MD_Data/prmtop_inpcrd)
 
 #### MSM
 All MSM input files, scripts, Python code, input coordinates, and analysis - including Feature selection, MSM Validation, TPT analysis \
-[Feature's selection with Vamp 2 score](JIP1_Paper/MSM/MSM_Validation/.ipynb)\
-[MSM_Validation](JIP1_Paper/MSM/MSM_Validation//MSM_Validation.ipynb)\
+[Feature's selection with Vamp 2 score](MSM/MSM_Validation/.ipynb)\
+[MSM_Validation](MSM/MSM_Validation//MSM_Validation.ipynb)\
 [MSM_Validation for RMDS of 7 Conformers](MSM/MSM_validation_cppttraj_7conformers/MSM_validation_RMSD_7_conformers.ipynb)\
-[Transitionpath theory and average structure in the metastable states](JIP1_Paper/MSM/MSM/TPT/TPT_analysis.ipynb)
+[Transitionpath theory and average structure in the metastable states](MSM/MSM/TPT/TPT_analysis.ipynb)
 
 - pcca1_samples.xtc
 - pcca1_samples.xtc
