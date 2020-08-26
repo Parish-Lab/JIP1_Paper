@@ -11,19 +11,19 @@ Contains all structures and raw data related to clustering analysis
 
 [Average structures of all 7 conformers](JIP1_Paper/Clustering/Avg_Conformer_Struct/)\
 [Raw data from MMTSB clustering](JIP1_Paper/Clustering/MMTSB/)\
-[Raw data from cpptraj clustering](JIP1_Paper/Clustering/cpptraj/)
+[Raw data from cpptraj clustering](JIP1_Paper/Clustering/cpptraj/)\
 [cpptraj clustering bootstrapping Juypter Notebook](JIP1_Paper/Clustering/cpptraj_bootstrapping/)
 
 #### MD Data
 All MD input files, scripts, parameter topology, input coordinates, trajectories, and analysis - including lifetime, H-bond, and RMSD analysis 
 
-[Bootstrapping Juypter notebook and final results](JIP1_Paper/MD_Data/Bootstrapping)\
+[Lifetime calculation and bootstrapping raw data](JIP1_Paper/MD_Data/Lifetime)\
 [Full ensemble H-bond summary file and script](JIP1_Paper/MD_Data/Hbond)\
 [Amber minimization, heating, equilibration, and unrestrained MD input files](JIP1_Paper/MD_Data/MD_input)\
 [Amber tleap preparation, minimization, heating, equilibration, and unrestrained MD scripts](JIP1_Paper/MD_Data/MD_scripts)\
 [cpptraj RMSD analysis scripts, and RMSD data files the input coordinates and each Conformer average structure as the reference](JIP1_Paper/MD_Data/RMSD)\
 [Unsolvated MD trajectories for all JIP1 unrestrained MD seeds](JIP1_Paper/MD_Data/Trajectories)\
-[Initial PDB, and solvated/unsolvated parameter topology and input coordinate files](JIP1_Paper/MD_Data/prmtop_inpcrd)\
+[Initial PDB, and solvated/unsolvated parameter topology and input coordinate files](JIP1_Paper/MD_Data/prmtop_inpcrd)
 - Note: Use the unsolvated prmtop to visualize the unsolvated MD trajectories
 
 #### MSM
