@@ -14,6 +14,7 @@ Contains all structures and raw data related to clustering analysis
 - PDBfit folder - all identified structures
 - clustering.out - list of generated clusters
 - clustering10.out - list of structures for 10 most populated clusters\
+
 [Raw data from cpptraj clustering](JIP1_Paper/Clustering/cpptraj/)
 - Other_Clusters folder - Low populated clusters not associated with any identified Conformer
 - JIP1_Uncapped_All_20000ns_summary_Pairdist_all_S5_C115_E_NA.out - clustering summary file
@@ -21,6 +22,7 @@ Contains all structures and raw data related to clustering analysis
 - JIP1_Uncapped_All_Pairdist_all_S5_C115_E_NA_Clust.out - cluster sampled by frame
 - JIP1_Uncapped_Pairdist_all_20000ns_CA.dat - paired distances raw data file
 - cpptraj_clustering_Pairdist_C115_S5.sh - pairwise cpptraj clustering script\
+
 [cpptraj clustering bootstrapping Juypter Notebook](JIP1_Paper/Clustering/cpptraj_bootstrapping/)
 
 #### MD Data
