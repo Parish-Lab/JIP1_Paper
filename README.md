@@ -25,6 +25,9 @@ Contains all structures and raw data related to clustering analysis
 - cpptraj_clustering_Pairdist_C115_S5.sh - pairwise cpptraj clustering script
 
 [cpptraj clustering bootstrapping Juypter Notebook](JIP1_Paper/Clustering/cpptraj_bootstrapping/)
+- PDBfit folder - all identified structures
+- clustering.out - list of generated clusters
+- clustering10.out - list of structures for 10 most populated clusters
 
 #### MD Data
 All MD input files, scripts, parameter topology, input coordinates, trajectories, and analysis - including lifetime, H-bond, and RMSD analysis 
@@ -56,5 +59,11 @@ All MD input files, scripts, parameter topology, input coordinates, trajectories
 All MSM input files, scripts, Python code, input coordinates, and analysis - including Feature selection, MSM Validation, TPT analysis \
 [Feature's selection with Vamp 2 score](JIP1_Paper/MSM/MSM_Validation/.ipynb)\
 [MSM_Validation](JIP1_Paper/MSM/MSM_Validation//MSM_Validation.ipynb)\
-[Transitionpath theory and average structure in the metastable states](JIP1_Paper/MSM/MSM/TPT/TPT_analysis.ipynb)\
+[Transitionpath theory and average structure in the metastable states](JIP1_Paper/MSM/MSM/TPT/TPT_analysis.ipynb)
+
+- pcca1_samples.xtc
+- pcca1_samples.xtc
+- pcca1_samples.xtc
+- pcca1_samples.xtc
+
 
