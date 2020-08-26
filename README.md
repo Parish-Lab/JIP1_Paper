@@ -53,6 +53,6 @@ All MD input files, scripts, parameter topology, input coordinates, trajectories
 [Initial PDB, and solvated/unsolvated parameter topology and input coordinate files](JIP1_Paper/MD_Data/prmtop_inpcrd)
 
 #### MSM
-.\
-.
+All MSM input files, scripts, Python code, input coordinates, and analysis - including Feature selection, MSM Validation, TPT analysis 
+[Feature's selection with Vamp 2 score](JIP1_Paper/MSM/Select_Features/)
 .
