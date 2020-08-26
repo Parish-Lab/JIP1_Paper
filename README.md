@@ -59,6 +59,7 @@ All MD input files, scripts, parameter topology, input coordinates, trajectories
 All MSM input files, scripts, Python code, input coordinates, and analysis - including Feature selection, MSM Validation, TPT analysis \
 [Feature's selection with Vamp 2 score](JIP1_Paper/MSM/MSM_Validation/.ipynb)\
 [MSM_Validation](JIP1_Paper/MSM/MSM_Validation//MSM_Validation.ipynb)\
+[MSM_Validation for RMDS of 7 Conformers](MSM/MSM_validation_cppttraj_7conformers/MSM_validation_RMSD_7_conformers.ipynb)\
 [Transitionpath theory and average structure in the metastable states](JIP1_Paper/MSM/MSM/TPT/TPT_analysis.ipynb)
 
 - pcca1_samples.xtc
