@@ -12,6 +12,12 @@ Contains all structures and raw data related to clustering analysis
 [Average structures of all 7 conformers](JIP1_Paper/Clustering/Avg_Conformer_Struct/)\
 [Raw data from MMTSB clustering](JIP1_Paper/Clustering/MMTSB/)\
 [Raw data from cpptraj clustering](JIP1_Paper/Clustering/cpptraj/)\
+- Other_Clusters folder - Low populated clusters not associated with any identified Conformer
+- JIP1_Uncapped_All_20000ns_summary_Pairdist_all_S5_C115_E_NA.out - clustering summary file
+- JIP1_Uncapped_All_Pairdist_all_S5_C115_E_NA_Clust.c*.pdb - strucutres associated with 7 Conformers
+- JIP1_Uncapped_All_Pairdist_all_S5_C115_E_NA_Clust.out - cluster sampled by frame
+- JIP1_Uncapped_Pairdist_all_20000ns_CA.dat - paired distances raw data file
+- cpptraj_clustering_Pairdist_C115_S5.sh - pairwise cpptraj clustering script
 [cpptraj clustering bootstrapping Juypter Notebook](JIP1_Paper/Clustering/cpptraj_bootstrapping/)
 
 #### MD Data
