@@ -54,5 +54,5 @@ All MD input files, scripts, parameter topology, input coordinates, trajectories
 
 #### MSM
 All MSM input files, scripts, Python code, input coordinates, and analysis - including Feature selection, MSM Validation, TPT analysis 
-./[Feature's selection with Vamp 2 score](JIP1_Paper/MSM/Select_Features/Features_Vamp2_score.html)
+[Feature's selection with Vamp 2 score](JIP1_Paper/MSM/Select_Features/Features_Vamp2_score.html)
 .
