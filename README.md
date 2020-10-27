@@ -37,8 +37,7 @@ All MD input files, scripts, parameter topology, input coordinates, trajectories
 - cpptraj_hbond.sh - cpptraj H-bond analysis script
 
 [Lifetime calculation and bootstrapping raw data](Lifetime)
-- JIP1_Lifetime_Bootstrapping_2A_corrected.xlsx - raw bootsampled lifetimes
-- lifetime_analysis_CLS_edit_corrected_2.0_conf7_added.xlsb - lifetimes calculated from ensemble
+- lifetime_analysis_CLS_edit_corrected_2.0_conf7_added_equation_change.xlsb - lifetimes calculated from ensemble
 
 [Amber minimization, heating, equilibration, and unrestrained MD input files](MD_Data/MD_input)
 
