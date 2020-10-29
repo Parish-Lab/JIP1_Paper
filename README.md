@@ -24,10 +24,9 @@ Contains all structures and raw data related to clustering analysis
 - JIP1_Uncapped_Pairdist_all_20000ns_CA.dat - paired distances raw data file
 - cpptraj_clustering_Pairdist_C115_S5.sh - pairwise cpptraj clustering script
 
-[cpptraj clustering bootstrapping Juypter Notebook](Clustering/cpptraj_bootstrapping)
-- PDBfit folder - all identified structures
-- clustering.out - list of generated clusters
-- clustering10.out - list of structures for 10 most populated clusters
+[cpptraj Pairwise clustering bootstrapping](Clustering/cpptraj_bootstrapping)
+- cpptraj_confs_occure.html - Juypter Notebook % occurrence bootstrapping
+- cpptraj_Cluster_Raw_byTraj.xlsx - per-trajectory % occurrence bootstrapping
 
 #### MD Data
 All MD input files, scripts, parameter topology, input coordinates, trajectories, and analysis - including lifetime, H-bond, and RMSD analysis 
