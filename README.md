@@ -1,5 +1,5 @@
 # Understanding the Structure and Apo Dynamics of the Functionally Active JIP1 Fragment
-Lauren M. McRae, Neda Ojaghlou, Justin Airas, Cooper A. Taylor, Bill R. Miller III†, and Carol A. Parish\
+Neda Ojaghlou, Justin Airas, Lauren M. McRae, Cooper A. Taylor, Bill R. Miller III†, and Carol A. Parish\
 Department of Chemistry, University of Richmond, Richmond, VA, 23173\
 †Department of Chemistry, Truman State University, Kirksville, MO 63501
 #### Abstract
